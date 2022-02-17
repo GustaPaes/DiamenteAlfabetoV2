@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamenteAlfabetoV2.ConsoleApp", "DiamenteAlfabetoV2.ConsoleApp\DiamenteAlfabetoV2.ConsoleApp.csproj", "{3500A754-2A70-468D-AC87-7A438D1058FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3500A754-2A70-468D-AC87-7A438D1058FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3500A754-2A70-468D-AC87-7A438D1058FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3500A754-2A70-468D-AC87-7A438D1058FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3500A754-2A70-468D-AC87-7A438D1058FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A67A09-AFC3-4F73-AB81-9BFB978C17A2}
+	EndGlobalSection
+EndGlobal
